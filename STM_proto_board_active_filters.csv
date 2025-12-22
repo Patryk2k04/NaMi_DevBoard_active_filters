@@ -1,0 +1,8 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"C1,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C14,C15,C17,C18,C19,C20,C21,C22,C23,C25,C26,C27,C28,C29,C30,C31,C33,C34,C35,C36,C37,C38,C39,C40,C42,C43,C44","38","~","","","","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~"
+"C2,C13,C16,C24,C32,C41","6","100n","","","","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~"
+"IN1,IN2,IN3,IN4,IN5,IN6,IN7,IN8,IN9,OUT1,OUT2,OUT3,OUT4,OUT5,OUT6","15","Conn_01x02","","","","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","~"
+"J1,J3","2","Conn_02x07","","","","Connector_PinSocket_2.54mm:PinSocket_2x07_P2.54mm_Vertical","~"
+"J2","1","Conn_02x07","","","","Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical","~"
+"R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29,R30","30","~","","","","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~"
+"U1,U2,U3","3","TL072","","","","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","http://www.ti.com/lit/ds/symlink/tl071.pdf"
