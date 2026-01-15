@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "main schematic")
-		(date "2026-01-13")
+		(date "2026-01-15")
 		(rev "0.0.2")
 		(company "KN NaMi")
 	)

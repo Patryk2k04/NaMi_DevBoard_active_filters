@@ -21545,7 +21545,7 @@
 		(layer "Edge.Cuts")
 		(uuid "e2af3751-5a49-4835-8055-9538d1f40529")
 	)
-	(gr_text "Patryk\n13.01.2026\nrev: 0.0.2"
+	(gr_text "Patryk\n15.01.2026\nrev: 0.0.2"
 		(at 70.6 119.5 90)
 		(layer "B.Cu" knockout)
 		(uuid "9bd90386-50c2-451a-a1f7-9fdb9a66c69d")
