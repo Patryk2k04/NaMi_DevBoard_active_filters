@@ -58,7 +58,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "STM_proto_board_active_filters.kicad_prl",
+    "filename": "NaMi DevBoard active filters.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -87,16 +87,16 @@
       9
     ],
     "col_widths": [
-      203,
-      184,
-      128,
-      124,
-      133,
-      119,
-      124,
+      162,
+      147,
+      102,
+      99,
       106,
-      114,
-      114
+      95,
+      99,
+      85,
+      91,
+      91
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
